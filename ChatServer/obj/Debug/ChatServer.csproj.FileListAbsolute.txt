@@ -1,0 +1,16 @@
+D:\C#\ChatCyberGuru\ChatServer\bin\Debug\ChatServer.exe.config
+D:\C#\ChatCyberGuru\ChatServer\bin\Debug\ChatServer.exe
+D:\C#\ChatCyberGuru\ChatServer\bin\Debug\ChatServer.pdb
+D:\C#\ChatCyberGuru\ChatServer\bin\Debug\Helper.dll
+D:\C#\ChatCyberGuru\ChatServer\bin\Debug\Helper.pdb
+D:\C#\ChatCyberGuru\ChatServer\obj\Debug\ChatServer.csprojResolveAssemblyReference.cache
+D:\C#\ChatCyberGuru\ChatServer\obj\Debug\ChatServer.exe
+D:\C#\ChatCyberGuru\ChatServer\obj\Debug\ChatServer.pdb
+C:\Users\campus\Source\Repos\ChatCyberGuru\ChatServer\bin\Debug\ChatServer.exe.config
+C:\Users\campus\Source\Repos\ChatCyberGuru\ChatServer\obj\Debug\ChatServer.exe
+C:\Users\campus\Source\Repos\ChatCyberGuru\ChatServer\obj\Debug\ChatServer.pdb
+C:\Users\campus\Source\Repos\ChatCyberGuru\ChatServer\bin\Debug\ChatServer.exe
+C:\Users\campus\Source\Repos\ChatCyberGuru\ChatServer\bin\Debug\ChatServer.pdb
+C:\Users\campus\Source\Repos\ChatCyberGuru\ChatServer\bin\Debug\Helper.dll
+C:\Users\campus\Source\Repos\ChatCyberGuru\ChatServer\bin\Debug\Helper.pdb
+C:\Users\campus\Source\Repos\ChatCyberGuru\ChatServer\obj\Debug\ChatServer.csprojResolveAssemblyReference.cache

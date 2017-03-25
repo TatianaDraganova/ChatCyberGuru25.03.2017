@@ -1,0 +1,9 @@
+D:\C#\ChatCyberGuru\Helper\bin\Debug\Helper.dll
+D:\C#\ChatCyberGuru\Helper\bin\Debug\Helper.pdb
+D:\C#\ChatCyberGuru\Helper\obj\Debug\Helper.dll
+D:\C#\ChatCyberGuru\Helper\obj\Debug\Helper.pdb
+C:\Users\campus\Source\Repos\ChatCyberGuru\Helper\bin\Debug\Helper.dll
+C:\Users\campus\Source\Repos\ChatCyberGuru\Helper\bin\Debug\Helper.pdb
+C:\Users\campus\Source\Repos\ChatCyberGuru\Helper\obj\Debug\Helper.csprojResolveAssemblyReference.cache
+C:\Users\campus\Source\Repos\ChatCyberGuru\Helper\obj\Debug\Helper.dll
+C:\Users\campus\Source\Repos\ChatCyberGuru\Helper\obj\Debug\Helper.pdb
